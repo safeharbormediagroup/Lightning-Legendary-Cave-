@@ -13,7 +13,7 @@ TRAINER_BADGE_KEY = b"GymBadge7"   # The authentic token required to unlock Pika
 def touch_pikachu_mind(trainer_socket):
     """
     Pikachu intercepts the trainer, checks their badge, 
-    and bridges his telepathic link to the Legendary Cave.
+    and bridges telepathic link to the Legendary Cave.
     """
     try:
         # 1. Challenge the trainer for their badge
