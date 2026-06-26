@@ -1,7 +1,7 @@
 # Lightning-Legendary-Cave-
 Pikachu Trainer Legend
 
-# personal_legend_notes
+# Just Notes
 
 # Not intended for production use.
 
