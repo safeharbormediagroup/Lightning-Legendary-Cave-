@@ -1,7 +1,9 @@
 # Lightning-Legendary-Cave-
 Pikachu Trainer Legend
 
-personal_legend_notes
+# personal_legend_notes
+# networking analogy for learning sockets and proxies.
+# Not intended for production use.
 
 import socket
 import _thread
