@@ -2,7 +2,7 @@
 Pikachu Trainer Legend
 
 # personal_legend_notes
-# networking analogy for learning sockets and proxies.
+
 # Not intended for production use.
 
 import socket
