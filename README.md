@@ -1,6 +1,8 @@
 # Lightning-Legendary-Cave-
 Pikachu Trainer Legend
 
+legend_not_configuration
+
 import socket
 import _thread
 
